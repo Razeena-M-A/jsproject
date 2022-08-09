@@ -1,0 +1,40 @@
+body
+{
+    background-image: url("hh.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100%
+    
+}
+.choiceBtn{
+
+    line-height: 30px;
+    width: 150px;
+    color:black;
+    background-color: white;
+    margin-top: 50px;
+
+}
+#gameDiv{
+    margin-top: 200px;
+    font-family: 'Brush Script MT', cursive;
+    color: antiquewhite;
+    padding: 100px;
+    text-align: center;
+
+}
+#playerText{
+
+    color: white;
+    
+
+}
+#computerText{
+
+    color:black;
+}  
+#resultText
+{
+    color:gold;
+}
